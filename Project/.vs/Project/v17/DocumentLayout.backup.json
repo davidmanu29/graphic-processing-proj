@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fechete David\\3rd Year\\1st Semester\\Graphic Processing\\Lab\\GPProject\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B64552C-7D84-4BF2-9897-700259451A9D}|Project\\Project.vcxproj|D:\\Fechete David\\3rd Year\\1st Semester\\Graphic Processing\\Lab\\GPProject\\Project\\Project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B64552C-7D84-4BF2-9897-700259451A9D}|Project\\Project.vcxproj|solutionrelative:Project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B64552C-7D84-4BF2-9897-700259451A9D}|Project\\Project.vcxproj|D:\\Fechete David\\3rd Year\\1st Semester\\Graphic Processing\\Lab\\GPProject\\Project\\Project\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B64552C-7D84-4BF2-9897-700259451A9D}|Project\\Project.vcxproj|solutionrelative:Project\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "D:\\Fechete David\\3rd Year\\1st Semester\\Graphic Processing\\Lab\\GPProject\\Project\\Project\\Camera.cpp",
+              "RelativeDocumentMoniker": "Project\\Camera.cpp",
+              "ToolTip": "D:\\Fechete David\\3rd Year\\1st Semester\\Graphic Processing\\Lab\\GPProject\\Project\\Project\\Camera.cpp",
+              "RelativeToolTip": "Project\\Camera.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T07:51:09.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Fechete David\\3rd Year\\1st Semester\\Graphic Processing\\Lab\\GPProject\\Project\\Project\\main.cpp",
+              "RelativeDocumentMoniker": "Project\\main.cpp",
+              "ToolTip": "D:\\Fechete David\\3rd Year\\1st Semester\\Graphic Processing\\Lab\\GPProject\\Project\\Project\\main.cpp",
+              "RelativeToolTip": "Project\\main.cpp",
+              "ViewState": "AgIAAKkCAAAAAAAAAAAAAK0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T07:51:09.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

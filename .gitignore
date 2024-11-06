@@ -6,6 +6,16 @@
 *.lo
 *.o
 *.obj
+*.ipch
+*.tlog
+*.tga
+*.log
+*.ilk
+*.idb
+*.pdb
+*.vsidx
+*.suo
+*.db
 
 # Precompiled Headers
 *.gch
